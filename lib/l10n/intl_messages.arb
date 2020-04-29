@@ -1,3 +1,9 @@
 {
-  "@@last_modified": "2020-04-28T15:09:16.718296"
+  "@@last_modified": "2020-04-29T10:26:15.705900",
+  "title": "times",
+  "@title": {
+    "description": "The title of app",
+    "type": "text",
+    "placeholders": {}
+  }
 }

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_localized_locales/flutter_localized_locales.dart';
 import 'package:l10n_bug/l10n/flutter_demo_localizations.dart';
 
 void main() => runApp(MyApp());
@@ -24,7 +23,6 @@ class MyApp extends StatelessWidget {
       ),
       localizationsDelegates: [
         ...FlutterDemoLocalizations.localizationsDelegates,
-        LocaleNamesLocalizationsDelegate()
       ],
       supportedLocales: FlutterDemoLocalizations.supportedLocales,
       home: MyHomePage(title: 'Flutter Demo Home Page'),
