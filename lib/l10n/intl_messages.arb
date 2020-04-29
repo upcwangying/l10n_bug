@@ -1,0 +1,9 @@
+{
+  "@@last_modified": "2020-04-30T07:00:26.852275",
+  "title": "times",
+  "@title": {
+    "description": "The title of app",
+    "type": "text",
+    "placeholders": {}
+  }
+}
